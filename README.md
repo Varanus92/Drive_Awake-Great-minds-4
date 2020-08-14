@@ -43,20 +43,23 @@ https://drive.google.com/file/d/111qzBOfvlRv9wqjvmiiFM1R6l7UFBSyY/view?usp=shari
 ## winning
 The project won the competition for best presentation
 
-![](winner.png)
+![](winner.jpg)
+
 
 ## Thanks:
 
 This project created thanks to:
 
-Uriel Yair Sabag
-Moshe Peleg
-Avraham Shurin
-Avraham  Frankel
-Harel Hadad 
-Haim Golan
 
-![](group.png)
+Avraham  Frankel,
+Moshe Peleg,
+Uriel Yair Sabag,
+Haim Golan,
+Avraham Shurin,
+Harel Hadad (not shown)
+
+
+![](group.jpg)
 
 
 
