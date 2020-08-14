@@ -1,4 +1,7 @@
-# Great-minds-4
+# Drive_Awake-Great-minds-4
+
+
+![](demo.png)
 
 ## intro
 Green Light Association has a study shows that 80% of the drivers confess they drive tired
@@ -40,6 +43,8 @@ https://drive.google.com/file/d/111qzBOfvlRv9wqjvmiiFM1R6l7UFBSyY/view?usp=shari
 ## winning
 The project won the competition for best presentation
 
+![](winner.png)
+
 ## Thanks:
 
 This project created thanks to:
@@ -48,8 +53,10 @@ Uriel Yair Sabag
 Moshe Peleg
 Avraham Shurin
 Avraham  Frankel
-Harel Hadad
+Harel Hadad 
 Haim Golan
+
+![](group.png)
 
 
 
