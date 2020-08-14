@@ -5,7 +5,9 @@
 
 ## Intro
 Green Light Association has a study shows that 80% of the drivers confess they drive tired
+
 Maariv Study shows that 20% of the accidents was because fatigue - the results are the same all over the world.
+
 In Israel, one person is killed per day by average .
 
 
@@ -33,6 +35,8 @@ we have used:
 #Ultrasonic sensors.
 
 #LCD Panel
+
+![](board.jpg)
 
 
 
