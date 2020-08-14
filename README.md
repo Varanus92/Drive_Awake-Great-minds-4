@@ -41,7 +41,7 @@ https://drive.google.com/file/d/111qzBOfvlRv9wqjvmiiFM1R6l7UFBSyY/view?usp=shari
 
 
 ## winning
-The project won the competition for best presentation (Special thanks to Uriel Yair Sabag)
+The project won the competition for best presentation (Special thanks to Uriel Yair Sabag (below))
 
 ![](winner.jpg)
 
